@@ -1,5 +1,5 @@
 //Mauricio Solorzano Barboza 24041066
-#include <iostream>
+#include <iostream
 #include <windows.h>
 using namespace std;
 void gotoxy(int X, int Y) {
